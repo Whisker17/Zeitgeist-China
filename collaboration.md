@@ -39,7 +39,7 @@ Behind it is the PAKA team. They have an organization called Polkadot DAO Allian
 
 This team focused on the DAO field, they currently incubate internally a decentralized DAO research organization —— DAOrayaki. This organization focuses on some DAO field research, including Futarchy and prediction markets. Here are some of their [introduction](https ://docs.google.com/document/d/1VVXLk5QHA8QKRFfmUdGWQ5ubHqbViohALV9e4wsNlTM/edit#heading=h.slelm4y9toi9) .
 
-They hope to have a cooperation with us, so that we can participate in their grant, we can conduct some research topics, here is their [cooperation proposal](https://docs.google.com/document/d/ 1Hs1Q7Lu2N6ji1sszo7mfYA1G0Ne9IEL6oSUyNk_bAVo/edit?pli=1) .
+They hope to have a cooperation with us, so that we can participate in their grant, we can conduct some research topics, here is their [cooperation proposal](https://docs.google.com/document/d/1Hs1Q7Lu2N6ji1sszo7mfYA1G0Ne9IEL6oSUyNk_bAVo/edit?pli=1) .
 
 #### ChainNews
 
