@@ -13,13 +13,15 @@ A[Zeitgeist] --> B{Organization}
 	I --> J{Yin Cao}
 ```
 
+![](https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/image-20210811215642824.png)
+
 ## Organization
 
 ### PolkaWorld
 
 The largest Polkadot ecosystem community in China, to help the development of Polkadot ecosystem projects in China, generally, if we have more important information or activities, they will help promote it.
 
-- Currently they will conduct an interview with us. For details, please refer to this [document](https://docs.google.com/document/d/1bRfyxZmXGe-KSle9F9LpHTR8ZHG2_6zYLbvlUypI8Rw/edit).
+- Currently they will conduct an interview with us. For details, please refer to this [document](https://docs.google.com/document/d/1bRfyxZmXGe-KSle9F9LpHTR8ZHG2_6zYLbvlUypI8Rw/edit) .
 
 #### PolkaBase
 
@@ -31,13 +33,13 @@ This is our current media partner in China. We will pay them a service fee every
 
 #### SubDAO
 
-Behind it is the PAKA team. They have an organization called Polkadot DAO Alliance. Here is a simple [introduction](https://docs.google.com/document/d/1uIc5ZtVP7IvjWkd52oo2_rXxRAUCxTpATAucg8g7Uc0/edit#heading=h.5lvwhvvgpq2o). At present, our cooperation with them is about this organization. They have agreed to join us in this Polkadot DAO Alliance, but there is no clear when it will be announced. They previously said it was their next announcement.
+Behind it is the PAKA team. They have an organization called Polkadot DAO Alliance. Here is a simple [introduction](https://docs.google.com/document/d/1uIc5ZtVP7IvjWkd52oo2_rXxRAUCxTpATAucg8g7Uc0/edit#heading=h.5lvwhvvgpq2o) . At present, our cooperation with them is about this organization. They have agreed to join us in this Polkadot DAO Alliance, but there is no clear when it will be announced. They previously said it was their next announcement.
 
 #### Dora Factory
 
-This team focused on the DAO field, they currently incubate internally a decentralized DAO research organization —— DAOrayaki. This organization focuses on some DAO field research, including Futarchy and prediction markets. Here are some of their [Introduction](https ://docs.google.com/document/d/1VVXLk5QHA8QKRFfmUdGWQ5ubHqbViohALV9e4wsNlTM/edit#heading=h.slelm4y9toi9).
+This team focused on the DAO field, they currently incubate internally a decentralized DAO research organization —— DAOrayaki. This organization focuses on some DAO field research, including Futarchy and prediction markets. Here are some of their [introduction](https ://docs.google.com/document/d/1VVXLk5QHA8QKRFfmUdGWQ5ubHqbViohALV9e4wsNlTM/edit#heading=h.slelm4y9toi9) .
 
-They hope to have a cooperation with us, so that we can participate in their grant, we can conduct some research topics, here is their [cooperation proposal](https://docs.google.com/document/d/ 1Hs1Q7Lu2N6ji1sszo7mfYA1G0Ne9IEL6oSUyNk_bAVo/edit?pli=1).
+They hope to have a cooperation with us, so that we can participate in their grant, we can conduct some research topics, here is their [cooperation proposal](https://docs.google.com/document/d/ 1Hs1Q7Lu2N6ji1sszo7mfYA1G0Ne9IEL6oSUyNk_bAVo/edit?pli=1) .
 
 #### ChainNews
 
