@@ -44,6 +44,10 @@ https://github.com/zeitgeistpm/tools/tree/main/packages/sdk
 
 即将推出
 
+### RPC 试用
+
+https://polkadot.js.org/apps/?rpc=wss://bsr.zeitgeist.pm#/chainstate
+
 ### 更多信息
 
 官网：https://zeitgeist.pm/
@@ -52,4 +56,4 @@ https://github.com/zeitgeistpm/tools/tree/main/packages/sdk
 
 官方 Repo：https://github.com/ZeitgeistPM
 
-文档后续更新：
+文档后续更新：https://github.com/Whisker17/Zeitgeist-China/edit/main/Eco-plan.md
